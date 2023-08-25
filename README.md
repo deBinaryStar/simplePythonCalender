@@ -1,6 +1,8 @@
 # simplePythonCalendar
 This Repository contains a simple beginner friendly python code for a calendar
 
+Open BC_Calender to  view entire code
+
 We use inbuilt python Calender Module 
 
 #2 = 2 Characters for days (Mo, Sa)
